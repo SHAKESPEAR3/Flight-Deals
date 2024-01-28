@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-API_KEY = "LOPEzqhiss2EZNklWzb3DyTjUrWsxT_M"
+API_KEY = "API KEY"
 
 location_endpoint = "https://api.tequila.kiwi.com/locations/query"
 

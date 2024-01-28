@@ -2,7 +2,7 @@ import requests
 
 SHEETY_GET_ENDPOINT = "https://api.sheety.co/02835cd482e16c380d46afc541fb9030/flightDeals/prices"
 SHEETY_HEADER = {
-    "Authorization": f"Bearer kjvnsjkcbkjbxjcU6"
+    "Authorization": f"Bearer TOKEN"
 }
 
 class DataManager:
